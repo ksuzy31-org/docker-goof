@@ -31,6 +31,6 @@
     "package": "^1.0.1",
     "package.json": "^2.0.1",
     "packageurl-js": "^1.0.0",
-    "adm-zip": "0.4.7"
+    "adm-zip": "0.4.11"
   }
 }
